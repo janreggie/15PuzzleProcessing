@@ -12,15 +12,15 @@ The code was revised around early 2018.
 
 ## License
 
-The [https://fontlibrary.org/en/font/grundschrift](Grundschrift typeface)
-included in `Font.otf` is authored by [http://www.urff.info/](Christian Urff)
+The [Grundschrift typeface](https://fontlibrary.org/en/font/grundschrift)
+included in `Font.otf` is authored by [Christian Urff](http://www.urff.info/)
 and is licensed under CC-BY 3.0.
 
 The image at `Default.png` uses the 
-[https://www.dafont.com/kg-primary-penmanship.font](KG Primary Penmanship)
+[KG Primary Penmanship](https://www.dafont.com/kg-primary-penmanship.font)
 typeface; however, the non-commercial nature of numbers presented should not
 conflict with the "Free for personal use" license as stated by Kimberly Geswein.
 
 This program has been released in CC0 1.0 Universal. To the extent possible
-under law, [https://github.com/janreggie](janreggie) has waived all copyright
+under law, [janreggie](https://github.com/janreggie) has waived all copyright
 and related or neighboring rights to 15PuzzleProcessing.
